@@ -1,3 +1,27 @@
 body {
-    background-color: rgb(156, 88, 219);
+    background-color: bisque;
+    
 }
+section {
+    padding: 40px 20px 20px 20px;
+    margin-left: 40px;
+}
+.textoCentrado{
+    text-align: center;
+
+}
+#nombreid {
+    background-color: rgb(151, 40, 58);
+
+}
+#uwuid{
+    background-color: rgb(226, 208, 147);
+}
+.bordes {
+    text-decoration: underline;}
+   
+section article p {
+    line-height: 2.5;
+}
+
+
