@@ -1,6 +1,10 @@
 body {
     background-color: bisque;
-    
+
+}
+h1 {
+    font-family: 'Tangerine', serif;
+  font-size: 48px;
 }
 section {
     padding: 40px 20px 20px 20px;
